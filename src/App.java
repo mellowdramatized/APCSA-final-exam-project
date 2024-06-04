@@ -70,10 +70,7 @@ public class App {
         buttonPanel.add(editAttendanceButton);
         buttonPanel.add(searchStudentButton);
         buttonPanel.add(sortStudentsButton);
-        buttonPanel.add(exportDataButton);
-        buttonPanel.add(encodeDataButton);
-        buttonPanel.add(decodeDataButton);
-
+        
         frame.add(buttonPanel, BorderLayout.SOUTH);
 
         // Display the frame
